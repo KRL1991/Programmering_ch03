@@ -13,7 +13,7 @@ public class Exercise_3_2_Calculations {
         // Create a Scanner
         Scanner input = new Scanner(System.in);
 
-        System.out.print(
+        System.out.println(
                 "What is " + number1 + " * " + number2 + " * " + number3);
 
         int answer = input.nextInt();
